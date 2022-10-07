@@ -50,21 +50,51 @@ O teu BBC micro:bit tem uma grande variedade de funcionalidades para explorares.
 </p>
 
 <ol>
-  <li>Antena Bluetooth & rádio</li> 
-  <li>Processador & sensor de temperatura</li>
-  <li>Bússola</li>
-  <li>Acelerómetro</li>
-  <li>Pins</li>
-  <li>Ligação micro USB</li>
-  <li>LED único amarelo</li>
-  <li>Botão de Reinício (Reset)</li>
-  <li>Suporte de pilhas</li>
-  <li>Chip do interface USB</li>
-  <li>Coluna de som - novo</li>
-  <li>Microfone - novo</li>
-  <li>LED vermelho - novo</li>
-  <li>LED Amarelo do USB - novo</li>
-  <li>Botão de alimentação & de reiniciar - novo</li>
+  <b><li>Antena Bluetooth & rádio</li></b> 
+  <br>
+  <p></p>
+  <b><li>Processador & sensor de temperatura</li></b>
+  <br>
+  <p></p>
+  <b><li>Bússola</li></b>
+  <br>
+  <p></p>
+  <b><li>Acelerómetro</li></b>
+  <br>
+  <p></p>
+  <b><li>Pins</li></b>
+  <br>
+  <p></p>
+  <b><li>Ligação micro USB</li></b>
+  <br>
+  <p></p>
+  <b><li>LED único amarelo</li></b>
+  <br>
+  <p></p>
+  <b><li>Botão de Reinício (Reset)</li></b>
+  <br>
+  <p></p>
+  <b><li>Suporte de pilhas</li></b>
+  <br>
+  <p></p>
+  <b><li>Chip do interface USB</li></b>
+  <br>
+  <p></p>
+  <b><li>Coluna de som - novo</li></b>
+  <br>
+  <p></p>
+  <b><li>Microfone - novo</li></b>
+  <br>
+  <p></p>
+  <b><li>LED vermelho - novo</li></b>
+  <br>
+  <p></p>
+  <b><li>LED Amarelo do USB - novo</li></b>
+  <br>
+  <p></p>
+  <b><li>Botão de alimentação & de reiniciar - novo</li></b>
+  <br>
+  <p></p>
 </ol>
 
 ## Projetos Interessantes
