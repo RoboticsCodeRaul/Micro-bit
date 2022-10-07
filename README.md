@@ -52,49 +52,50 @@ O teu BBC micro:bit tem uma grande variedade de funcionalidades para explorares.
 <ol>
   <b><li>Antena Bluetooth & rádio</li></b> 
   <br>
-  <p></p>
+  <p>O teu micro:bit pode comunicar com outros micro:bits via rádio e com outros dispositivos através de Bluetooth.</p>
   <b><li>Processador & sensor de temperatura</li></b>
   <br>
-  <p></p>
+  <p>O processador é o cérebro do micro:bit, sempre à procura, a descodificar e a realizar as tuas instruções. Também contém um sensor de temperatura que te permite medir o calor ou frio que está no sitio onde te encontras.</p>
   <b><li>Bússola</li></b>
   <br>
-  <p></p>
+  <p>Encontra o Norte magnético ou mede a força dos campos magnéticos usando a bússola do micro:bit. Ele pode medir campos magnéticos em três dimensões, podendo ser usado para experiências científicas ou para fazer simples alarmes de porta ou de janela.</p>
   <b><li>Acelerómetro</li></b>
   <br>
-  <p></p>
+  <p>O acelerómetro do micro:bit mede as forças em 3 dimensões, incluindo a gravidade, de maneira a que os teus projetos possam dizer para que lado é que o teu micro:bit está virado. Podes usá-lo para experiências cientificas, para fazer jogos com inputs (entradas) que reagem a abanões ou para fazer alarmes simples que avisam se alguém mexe nas tuas coisas.</p>
   <b><li>Pins</li></b>
   <br>
-  <p></p>
+  <p>Liga o teu micro:bit a auriculares, interruptores simples, sensores tácteis e muito mais. Os pins podem alimentar acessórios simples como luzes, motores e robots.
+</p>
   <b><li>Ligação micro USB</li></b>
   <br>
-  <p></p>
+  <p>Usa o interface USB para descarregar programas para o teu micro:bit e para ligá-lo à eletricidade.</p>
   <b><li>LED único amarelo</li></b>
   <br>
-  <p></p>
+  <p>O LED individual, localizado na parte de trás do teu micro:bit, pisca quando estás a descarregar um programa, e liga-se para mostrar que estás a alimentar o micro:bit a partir da ligação USB.</p>
   <b><li>Botão de Reinício (Reset)</li></b>
   <br>
-  <p></p>
+  <p>Reinicia os teus programas micro:bit com o botão de reiniciar.</p>
   <b><li>Suporte de pilhas</li></b>
   <br>
-  <p></p>
+  <p>Em vez de alimentares o micro:bit através do USB, podes desligá-lo do computador e usar um suporte de pilhas. Isto é muito útil se quiseres levá-lo para a rua, usá-lo pendurado na roupa ou como consola de jogos. Pode durar muito tempo utilizando apenas duas baterias AAA.</p>
   <b><li>Chip do interface USB</li></b>
   <br>
-  <p></p>
+  <p>O chip de interface lida com a ligação USB e é usado para descarregar o novo código para o micro:bit, enviando e recebendo dados de série para o teu computador.</p>
   <b><li>Coluna de som - novo</li></b>
   <br>
-  <p></p>
+  <p>O novo micro:bit tem uma coluna de som integrada que te permite adicionar ainda mais facilmente música e novos sons aos teus projetos.</p>
   <b><li>Microfone - novo</li></b>
   <br>
-  <p></p>
+  <p>O novo microfone e LED do micro:bit estão na parte de trás do dispositivo. O LED acende quando está a monitorizar níveis de som e é visível com um ícone de microfone na parte da frente do dispositivo. Na parte da frente também existe pequeno buraco que possibilita a entrada de som no microfone.</p>
   <b><li>LED vermelho - novo</li></b>
   <br>
-  <p></p>
+  <p>O LED vermelho na parte de trás do novo micro:bit indica que o teu micro:bit tem energia, quer seja através de pilhas ou do cabo USB.</p>
   <b><li>LED Amarelo do USB - novo</li></b>
   <br>
-  <p></p>
+  <p>O novo micro:bit tem uma luz de LED amarela que pisca quando o teu computador está a comunicar com o micro:bit através de USB; quando instalas um ficheiro de um programa, por exemplo.</p>
   <b><li>Botão de alimentação & de reiniciar - novo</li></b>
   <br>
-  <p></p>
+  <p>Carregando neste botão do teu micro:bit vais reiniciá-lo (reset) e correr o teu programa do inicio. Se continuas a pressioná-lo, o LED vermelho que indica a ligação elétrica vai-se desligar. Quando o LED que indica a alimentação electrica desliga, solta o botão e o teu micro:bit entra no modo de poupança de energia. Faz isto para poupar as pilhas. Carrega no botão novamente para a cordar o teu micro:bit.</p>
 </ol>
 
 ## Projetos Interessantes
