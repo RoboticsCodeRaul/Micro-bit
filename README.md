@@ -23,16 +23,16 @@ O teu BBC micro:bit tem uma grande variedade de funcionalidades para explorares.
   <b><li>Botões</li></b>
   <br>
   <p>Na parte da frente do micro:bit existem dois botões que podem ser usados juntos ou separadamente para fazer com que aconteçam coisas.</p><a href="https://microbit.org/pt-pt/get-started/user-guide/features-in-depth/#buttons"><div>Aprende mais sobre os botões</div></a></p>
-  <b><li>Ecrã de LEDs & sensor de luz</li>
+  <b><li>Ecrã de LEDs & sensor de luz</li></b>
   <br>
   <p>O ecrã é composto por uma matriz 5x5 com 25 LEDs; serve para mostrar imagens, palavras e números. Os LEDs também podem ser usados como sensores, medindo a quantidade de luz que está a incidir no teu micro:bit.</p>
-  <li><b>Pins - GPIO</b></li>
+  <b><li>Pins - GPIO</li></b>
   <br>
   <p>Os pins GPIO permitem ligar headphones, sensor de toque ou adicionar outros componentes eletrónicos para expandir as possibilidades do teu micro:bit. O novo micro:bit tem reentrâncias para prender as pinças de crocodilo com segurança.</p>
   <b><li>Pin - 3 volts de potência</li></b>
   <br>
   <p>Podes alimentar LEDs externos ou outros componentes eletrónicos usando o pin de alimentação de 3 volts.</p>
-  <b><li>Pin - Terra</li>
+  <b><li>Pin - Terra</li></b>
   <br>
   <p>O pin GND é o pin Terra - usado para completar circuitos elétricos ao ligar headphones, LEDs ou interruptores externos no teu micro:bit.</p>
   <b><li>Logótipo táctil - novo</li></b>
